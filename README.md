@@ -1,7 +1,7 @@
 <h1 align="center">Hey 👋, I'm Jay Kania</h1>
 <h3 align="center">A passionate Software Developer</h3>
 
-- 🌱 I’m currently learning **Typescript and NodeJS.**
+- 🌱 I’m currently learning **GraphQL.**
 
 - 👨‍💻 All of my projects are available at <a href="https://www.github.com/JayKania" target="blank">github</a>
 
